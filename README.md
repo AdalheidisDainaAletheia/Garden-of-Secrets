@@ -8,4 +8,4 @@ Description information is from the following sources:
 - https://elvenspirituality.wordpress.com/calendar/
 - https://en.wikipedia.org/wiki/Main_Page
 
-The .ics file is called **'Secrets'** and can be subscribed to through the raw file link. This has only been tested in Thunderbird *(link then syncronize the calendars)*.
+The .ics file is called **'Secrets'** and can be subscribed to through the raw file link. This has only been tested in Thunderbird *(subscribe to, then syncronize the calendars)*.
