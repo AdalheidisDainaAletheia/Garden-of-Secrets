@@ -1,10 +1,10 @@
 # Garden of Secrets - A Complex Memology
 ## .ics calendar file for Elven (LOTR), Heathen, and Pagan dates and lunar cycles.
-Includes Skáney (Scandanavian), Gaelic, Celtic, and Elven *(Toilken, LOTR)* dates and lunar cycles *(lunar month periods, not a lunar ephemeris)*. Tested only with Mozilla Thunderbird.
+Includes Skáney (Scandanavian), Gaelic, Celtic, and Elven *(Tolkien, LOTR)* dates and lunar cycles *(lunar month periods, not a lunar ephemeris)*. Tested only with Mozilla Thunderbird.
 
 ---
 
-Modfications created using **iCal Event Maker**:
+Modifications created using **iCal Event Maker**:
 - [iCal Event Maker](https://ical.marudot.com/)
 
 Event description information is from the following sources:
@@ -13,4 +13,4 @@ Event description information is from the following sources:
 - [Elven Calendar, Toilken](https://elvenspirituality.wordpress.com/calendar/)
 - [The Vikings of Bjornstad](http://www.vikingsofbjornstad.com/Viking_Calendar.shtm)
 
-The .ics file is called **'Secrets'** and can be subscribed to through the raw file link. This has only been tested in Mozilla Thunderbird *(subscribe to, then syncronize the calendars)*.
+The .ics file is called **'Secrets'** and can be subscribed to through the raw file link. This has only been tested in Mozilla Thunderbird *(subscribe to, then synchronize the calendars)*.
